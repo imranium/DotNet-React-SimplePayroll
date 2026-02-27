@@ -1,5 +1,6 @@
 
 # Simple Payroll System
+![Application Dashboard](screenshots/Manage-Employee-Dahboard.png)
 
 Full-stack CRUD application for managing employee payroll and skillsets using .NET 10, Dapper, and React.
 
@@ -7,6 +8,7 @@ Full-stack CRUD application for managing employee payroll and skillsets using .N
 
 * **Dapper & MySQL**: I used Dapper for data access to keep the queries performant and avoid the overhead of a full ORM. The schema uses a many-to-many relationship for skillsets via a pivot table.
 * **Salary Logic**: The calculation engine accounts for base pay, 2x daily rate on working days, and a birthday bonus. I’ve verified this logic against the provided sample data (Razak).
+![Payroll Calculator](screenshots/Payroll-Calculator.png)
 * **Architecture**: The backend is separated into Controllers, Services (for business logic), and Repositories (for data access) to keep the code testable and organized.
 
 ---
