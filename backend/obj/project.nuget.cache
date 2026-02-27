@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kr6ZY7eMfWg=",
+  "success": true,
+  "projectFilePath": "/Users/syafi/Desktop/coding/learnCsharp/fullStackSimplePayroll/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/syafi/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512",
+    "/Users/syafi/.nuget/packages/fluentvalidation/12.1.1/fluentvalidation.12.1.1.nupkg.sha512",
+    "/Users/syafi/.nuget/packages/fluentvalidation.dependencyinjectionextensions/12.1.1/fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
+    "/Users/syafi/.nuget/packages/microsoft.aspnetcore.openapi/10.0.3/microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "/Users/syafi/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/Users/syafi/.nuget/packages/mysqlconnector/2.5.0/mysqlconnector.2.5.0.nupkg.sha512",
+    "/Users/syafi/.nuget/packages/scalar.aspnetcore/2.12.47/scalar.aspnetcore.2.12.47.nupkg.sha512"
+  ],
+  "logs": []
+}
